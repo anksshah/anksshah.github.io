@@ -35,10 +35,11 @@ In `_config.yml` remember to specify your own data:
       github : username
       twitter : username
 	  
-	  #Sample List
+#Sample
 	  
 	  
-	  &nbsp;
+	
+
 9.	Four
 2.	Five
 
