@@ -8,15 +8,16 @@ tagline: Supporting tagline
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
-	# Sample List
+# Sample List
 	
-	-	One
-	-	Two
-	-	Three
-	<ul>
-	<li> one </li>
-	<li> two </li>
-	</ul>
+-	One
+-	Two
+-	Three
+	
+<ul>
+<li> one </li>
+<li> two </li>
+</ul>
 	
 ## Update Author Attributes
 
@@ -38,8 +39,8 @@ In `_config.yml` remember to specify your own data:
 	  
 	  
 	  &nbsp;
-	  9.	Four
-	  2.	Five
+9.	Four
+2.	Five
 
 The theme should reference these variables whenever needed.
     
