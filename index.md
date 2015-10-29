@@ -13,6 +13,10 @@ Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllb
 	-	One
 	-	Two
 	-	Three
+	<ul>
+	<li> one </li>
+	<li> two </li>
+	</ul>
 	
 ## Update Author Attributes
 
