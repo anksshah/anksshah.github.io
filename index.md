@@ -26,6 +26,7 @@ In `_config.yml` remember to specify your own data:
 	  *	Two
 	  *	Three
 	  
+	  &nbsp;
 	  9.	Four
 	  2.	Five
 
