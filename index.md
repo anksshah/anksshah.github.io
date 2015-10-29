@@ -26,7 +26,7 @@ In `_config.yml` remember to specify your own data:
 	  * Two
 	  * Three
 	  
-	  1. Four
+	  9. Four
 	  2. Five
 
 The theme should reference these variables whenever needed.
