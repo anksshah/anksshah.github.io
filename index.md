@@ -13,6 +13,10 @@ Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllb
 
 In `_config.yml` remember to specify your own data:
     
+	*	One
+	*	Two
+	*	Three
+	  
     title : My Blog =)
     
     author :
@@ -22,9 +26,7 @@ In `_config.yml` remember to specify your own data:
       twitter : username
 	  
 	  #Sample List
-	  *	One
-	  *	Two
-	  *	Three
+	  
 	  
 	  &nbsp;
 	  9.	Four
