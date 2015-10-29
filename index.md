@@ -22,12 +22,12 @@ In `_config.yml` remember to specify your own data:
       twitter : username
 	  
 	  #Sample List
-	  * One
-	  * Two
-	  * Three
+	  *	One
+	  *	Two
+	  *	Three
 	  
-	  9. Four
-	  2. Five
+	  9.	Four
+	  2.	Five
 
 The theme should reference these variables whenever needed.
     
